@@ -1,4 +1,4 @@
-# SAK - Solana Token Creation App
+#  Streets.Fun
 
 🚀 **Create, Launch, and Manage Solana Tokens with Ease**
 
