@@ -1,12 +1,12 @@
 #  Streets.Fun
 
-🚀 **Create, Launch, and Manage Solana Tokens with Ease**
+🚀 **Turn Real Moments into Memes Instantly**
 
-SAK is a powerful cross-platform application that democratizes Solana token creation. Built with modern web technologies and designed for both mobile and desktop, SAK makes it simple for anyone to create and launch their own cryptocurrency tokens on the Solana blockchain through the popular Pump.fun platform.
+Streets.Fun is the first mobile app that lets users instantly capture real-life moments and turn them into memecoins on the Solana blockchain.
 
 ## 🎯 About
 
-SAK bridges the gap between complex blockchain technology and everyday users by providing an intuitive interface for token creation. Whether you're a crypto enthusiast, entrepreneur, or developer, SAK empowers you to:
+Streets.Fun bridges the gap between complex blockchain technology and everyday users by providing an intuitive interface for token creation. Whether you're a crypto enthusiast, entrepreneur, or developer, Streets.Fun empowers you to:
 
 - **Create Custom Tokens**: Design and mint your own Solana-based tokens with custom names, symbols, and descriptions
 - **Upload Token Images**: Add visual identity to your tokens with integrated photo capture and upload
@@ -18,33 +18,33 @@ The app integrates seamlessly with Pump.fun, one of the leading platforms for So
 
 ## ✨ Key Features
 
-### 🪙 **Token Creation & Management**
+### **Token Creation & Management**
 - **One-Click Token Creation**: Create Solana SPL tokens with just a few taps
 - **Custom Token Metadata**: Set token name, symbol, description, and supply
 - **Pump.fun Integration**: Automatic listing on Pump.fun for immediate trading
 - **Token Portfolio**: View and manage all your created tokens in one dashboard
 - **Transaction History**: Track all your token creation and trading activities
 
-### 🔐 **Secure Authentication & Wallet**
+### **Secure Authentication & Wallet**
 - **Multiple Login Methods**: Connect via email, wallet, or social authentication
 - **Privy Integration**: Enterprise-grade security with embedded wallet creation
 - **Automatic Wallet Generation**: Create Solana wallets instantly after email signup
 - **Real-time Balance**: Live SOL balance updates and transaction monitoring
 - **Multi-Wallet Support**: Connect multiple wallets and switch between them
 
-### 📱 **Cross-Platform Experience**
+### **Cross-Platform Experience**
 - **Progressive Web App**: Works seamlessly in any modern browser
 - **Native Mobile Apps**: Full-featured Android applications
 - **Responsive Design**: Optimized UI for phones, tablets, and desktop
 - **Offline Capabilities**: Continue working even with limited connectivity
 
-### 🎨 **Media & Customization**
+### **Media & Customization**
 - **Photo Integration**: Take photos or upload images for token branding
 - **Image Processing**: Automatic image optimization and formatting
 - **Dark/Light Themes**: Automatic theme switching based on system preferences
 - **Intuitive UI**: Clean, modern interface built with Ionic and Ant Design
 
-### ⚡ **Performance & Reliability**
+### **Performance & Reliability**
 - **Fast Transactions**: Optimized Solana transaction processing
 - **Error Handling**: Comprehensive error management and user feedback
 - **Caching**: Smart data caching for improved performance
@@ -70,7 +70,7 @@ The app integrates seamlessly with Pump.fun, one of the leading platforms for So
 
 Main project configuration file containing:
 
-- Project metadata (name: "sak", version: 0.0.1)
+- Project metadata (name: "streetsfun", version: 0.0.1)
 - NPM scripts for development, building, testing, and linting
 - Dependencies including Ionic React, Solana Web3.js, Privy Auth, and UI libraries
 - Development dependencies for testing, linting, and build tools
@@ -88,8 +88,8 @@ Vite build configuration:
 
 Capacitor configuration for mobile app deployment:
 
-- App ID: `com.timur.sak`
-- App name: "sak"
+- App ID: `com.mike.streetsfun`
+- App name: "streetsfun"
 - Web directory: "dist"
 
 #### `ionic.config.json`
